@@ -1,7 +1,7 @@
-# Proposal: Expanding the Visual Identity of CHI and Its Meta-Projects  
+# Proposal(Tentative): Expanding the Visual Identity of CHI and Its Meta-Projects  
 
 **Proposal Title:**  Visual Identity and Branding Development for CHI Meta-Projects  
-**Researcher:** Alexandra Tourkova
+**Researcher:** Alexandra Tourkova  
 **Total Hours:**  TBD by type of effort: range is generally around 100 - 150 hours effort but this is changeable)  
 **Focus Areas:**  Logo Design, Branding Package Development, Style Guide Creation, Visual Identity System  
 **Organization:**  Center for Holistic Integration (CHI)  
