@@ -1,6 +1,21 @@
 # Proposal: Expanding the Visual Identity of CHI and Its Meta-Projects  
 
-## Objective  
+**Proposal Title:**  Visual Identity and Branding Development for CHI Meta-Projects  
+**Researcher:** Alexandra Tourkova
+**Total Hours:**  TBD by type of effort: range is generally around 100 - 150 hours effort but this is changeable)  
+**Focus Areas:**  Logo Design, Branding Package Development, Style Guide Creation, Visual Identity System  
+**Organization:**  Center for Holistic Integration (CHI)  
+**Supervisor:**  David B. Smith  (Artistic Director)
+**Date:**  2025-01-23  
+**Deliverables Due By:**  May 15, 2025  (Tentative, TBD based on type of effort)
+
+## Background and Need
+A strong visual identity builds organizational branding, fosters recognition, and effectively communicates values and goals. For the Center for Holistic Integration (CHI), this specific project serves as a foundational effort to establish a scalable and adaptable branding structure that will support future development. By laying the groundwork for consistent visual identities across CHI’s diverse meta-projects, this initiative ensures alignment with CHI’s core principles of integration, innovation, and collaboration. The key deliverable is not only the creation of individual logos and branding elements but also the establishment of a structured process that future artists and contributors can build upon, positioning CHI for sustainable growth and cohesive representation.
+
+This project will play a critical role in advancing CHI’s efforts by creating a unified visual framework that enhances communication, professionalism, and outreach across all its meta-projects. A consistent branding system will strengthen CHI’s ability to attract collaborators, funding, and participants by presenting a clear and cohesive identity that reflects the organization’s values and goals. By connecting the different meta-projects into a unified branding system, this initiative will celebrate each project’s unique contributions while maintaining their alignment under the overarching CHI umbrella. The scalable branding elements and processes developed through this effort will ensure seamless integration of future projects while promoting CHI’s principles of innovation, integration, and collaboration. Additionally, the branding package will serve as a powerful tool for marketing, promotion, and engagement, helping CHI build stronger connections with internal teams, external partners, and broader audiences.
+
+## Objective 
+
 To extend the work initiated with the **Anti-Hate logo and recursive fish design** into a unified branding system for the **Center for Holistic Integration (CHI)** and its associated meta-projects. This system will include unique logos for each meta-project, along with a comprehensive branding package that outlines their relationship to the core CHI logo. The package will also define a set of rules for generating additional meta-project logos and brands, ensuring scalability as CHI continues to grow.  
 
 Deliverables will include a **style book**, similar in purpose to [City Tech’s branding guide](https://www.citytech.cuny.edu/citytechbranding/CityTechIDbook.pdf), that details fonts, color palettes, logo usage, and rules for designing future logos to maintain a cohesive identity.  
@@ -18,10 +33,14 @@ The resulting system will combine **recursive Tao motifs**, **Escher-like tessel
 ---
 
 ## 2. Design Approach  
+<div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+    <img src="https://github.com/CHI-CityTech/CHI-Branding/blob/main/images/Tao%20Chi.png" alt="Image 2" style="width:180px; margin: 10px;">
+    <img src="https://github.com/CHI-CityTech/CHI-Branding/blob/main/images/Koi%20CHI.png" alt="Image 1" style="width:200px; margin: 10px;">
+</div>
 
 ### 2.1 Foundational Elements  
 - **Core CHI Logo**: The Tao-inspired CHI logo will remain the centerpiece of the branding system.  
-- **Anti-Hate Recursive Fish Design**: This logo will serve as a conceptual and stylistic foundation for the other meta-projects, extending its recursive and fractal themes into new visual representations. Additional exploration to more fully embrace the forground/background ambiguity of Escher.
+- **Anti-Hate Recursive Fish Design**: This logo will serve as a conceptual and stylistic foundation for the other meta-projects, extending its recursive and fractal themes into other logo designs. Additional exploration to more fully embrace the forground/background ambiguity of Escher is required (as one can see from teh image above, there are two fish in the foreground and also a background: in the Tao there is a forground/background ambiguity.
 - **Escher-Like Tessellations**: Create interlocking shapes and patterns for use in logos and supporting visuals, emphasizing connection and balance.  
 
 ### 2.2 Meta-Project Logos  
