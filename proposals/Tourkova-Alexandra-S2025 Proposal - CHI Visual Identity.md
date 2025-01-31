@@ -30,9 +30,9 @@
 ---
 
 ## **Background and Need**  
-All organizations require a **strong visual identity** that fosters recognition, effectively communicates values, and generates organizational branding. The **Center for Holistic Integration (CHI)** is undergoing foundational work to establish a **scalable and adaptable branding system** that will support **current and future meta-projects** while remaining flexible for future growth.  
+All organizations require a **strong visual identity** that fosters recognition, effectively communicates values, and generates organizational branding. The **Center for Holistic Integration (CHI)** is no exception, and proposes to establish a **scalable and adaptable branding system** that will support **current and future meta-projects** while remaining flexible for future growth, and remain true to the core CHI principles.  The existing CHI logo is a recursive Tao (see [image below](https://github.com/CHI-CityTech/CHI-Branding/edit/main/proposals/Tourkova-Alexandra-S2025%20Proposal%20-%20CHI%20Visual%20Identity.md#design-approach))  
 
-By establishing a **structured branding process**, this initiative ensures that CHI’s **visual identity remains cohesive across all projects**, while allowing for unique characteristics that reflect each meta-project’s goals and themes.  
+By establishing a **structured branding process**, this initiative ensures that CHI’s **visual identity remains cohesive across all projects**, while allowing for each meta-project’s goals and themes to represented in a unique and informational fashion.  
 
 ### **Key Goals of this Initiative:**  
 - Develop a **unified branding system** that enhances CHI’s ability to **attract collaborators, funding, and participants**.  
