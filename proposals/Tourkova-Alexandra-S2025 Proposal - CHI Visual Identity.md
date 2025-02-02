@@ -1,31 +1,14 @@
 # **Proposal: Expanding the Visual Identity of CHI and Its Meta-Projects**
 
-## **Proposal Title:**  
-**Initial Visual Identity and Branding Development for CHI Meta-Projects**
-
-### **Researcher:**  
-**Alexandra Tourkova**
-
-### **Total Hours:**  
-120 hours minimum (~10+ hours/week)
-
-### **Focus Areas:**  
-- Logo Design  
-- Branding Package Development  
-- Style Guide Creation  
-- Visual Identity System  
-
-### **Organization:**  
-**Center for Holistic Integration (CHI)**  
-
-### **Supervisor:**  
-**Dr. David B. Smith (Artistic Director)**  
-
-### **Internship Period:**  
-**January 31, 2025 – May 10, 2025**  
-
-### **Deliverables Due By:**  
-**May 15, 2025 (Tentative, TBD based on project needs)**  
+**Proposal Title:**  Initial Visual Identity and Branding Development for CHI Meta-Projects  
+**Researcher:** Alexandra Tourkova  
+**Internship Period:** January 31, 2025 – May 10, 2025  
+**Total Hours:**  120 hours minimum (~10+ hours/week)  
+**Focus Areas:**  Logo Design, Branding Package Development, Style Guide Creation, Visual Identity System  
+**Organization:**  Center for Holistic Integration (CHI)  
+**Supervisor:**  David B. Smith  (Artistic Director)
+**Date:**  2025-01-31  
+**Deliverables Due By:**  May 15, 2025  (Tentative, TBD based on type of effort)
 
 ---
 
@@ -133,9 +116,37 @@ The intern’s performance will be evaluated based on:
 
 ---
 
+
+## **Internship Provider’s Responsibilities: Assessment & Documentation**  
+
+The **Center for Holistic Integration (CHI)** will ensure that the **internship follows a structured evaluation process**, integrates with **GitHub-based documentation**, and aligns with academic and professional standards.
+
+### **1. Evaluation & Feedback**  
+- **Weekly Check-ins:** The intern will meet **weekly** with **Dr. David B. Smith (Artistic Director)** for feedback on design progress, professional conduct, and deliverables.  
+- **Mid-Term Review:** A formal **mid-point assessment** will evaluate branding progress, responsiveness to feedback, and project integration.  
+- **Final Evaluation:** CHI will provide a **performance report** assessing branding deliverables, documentation quality, and overall contributions.  
+
+### **2. GitHub Integration & Documentation**  
+CHI will use **GitHub as the primary project hub** for:  
+- **Version-controlled digital assets** (logos, branding elements, templates).  
+- **Project management via GitHub Projects** to track tasks and milestones.  
+- **Design feedback through GitHub Issues**, ensuring an iterative workflow.  
+- **GitHub Wiki for the CHI Style Guide**, allowing future designers to expand branding guidelines.  
+
+### **3. Reporting & Institutional Responsibilities**  
+- CHI will **document progress and assessments** for the **internship course instructor (Prof. Stella Nicolaou)** via GitHub and supervisor feedback.  
+- A **formal final evaluation** will summarize **contributions, learning outcomes, and project impact**, ensuring alignment with City Tech’s internship requirements.  
+
+### **4. Knowledge Transfer & Sustainability**  
+- **Final branding assets will be distributed to CHI project teams**, with documentation on usage.  
+- The **CHI Style Guide will be maintained in GitHub**, allowing future interns to build upon existing work.  
+- CHI will ensure the intern’s contributions remain **accessible and scalable** for long-term branding development.  
+
+---
+
 ## **Final Notes**  
 - This branding project **lays the foundation for CHI’s evolving visual identity**.  
-- **GitHub will serve as the primary repository** for **all assets, documentation, and project tracking**.  
+- **✅ All deliverables, research, and designs will be version-controlled in CHI’s GitHub repository.**
 - The **CHI Style Guide will be an evolving document**, allowing future contributors to build upon this work.  
 
-**✅ All deliverables, research, and designs will be version-controlled in CHI’s GitHub repository.**  
+
